@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1766713183328,
+  "timestamp": 1766777170303,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -38,9 +38,9 @@
         "/chunk-W23ILHFO.js",
         "/chunk-ZAD47YUN.js",
         "/index.html",
-        "/main-XT75P4AM.js",
+        "/main-NOMCXBYL.js",
         "/manifest.webmanifest",
-        "/styles-ID2X6H3W.css"
+        "/styles-QE7NSGYY.css"
       ],
       "patterns": []
     },
@@ -278,14 +278,14 @@
     "/chunk-UZK52DY7.js": "df846e55ed8fd22ba4c0c634844a911ebbd7ee9b",
     "/chunk-W23ILHFO.js": "357b271c199d1b2fb8221fe3bae5deb3b3ebadf2",
     "/chunk-ZAD47YUN.js": "128e8d03300290c175ad1ac5326e15c8bb1f25ff",
-    "/index.html": "30b4ddd808a3bdec97786d79f5c87f42af5947b6",
-    "/main-XT75P4AM.js": "f62a61411913229c2f795cad47a04e793f9c758d",
+    "/index.html": "45cfe6068abb33504e296245f70c5f9f9742fc7c",
+    "/main-NOMCXBYL.js": "87769446eea23e575c3a68e76fe01335d9aabc9c",
     "/manifest.webmanifest": "92c9063db09b0232d7a30ae28f305a8783810556",
     "/media/DMSans-Italic-VariableFont_opsz,wght-MP53IA3G.ttf": "302139f48d4868cf07694d87f1f500cda55fadc9",
     "/media/DMSans-VariableFont_opsz,wght-ZSOUECSW.ttf": "d7387fc4b5713d385a47305ec75791dde6e693af",
     "/media/Manrope-VariableFont_wght-OKHRIJEM.ttf": "b190c931d200c0e72563c94a5f7568ca69bdb8b6",
     "/media/SpaceGrotesk-VariableFont_wght-BYN4CF5H.ttf": "0e9348243185d6cb2e32014b3ee80959ef645b52",
-    "/styles-ID2X6H3W.css": "cb26be6896d0a93ceea00f7032e0722c0f9cc413"
+    "/styles-QE7NSGYY.css": "20300e831afdb52126a09c8b0e31b71701207b78"
   },
   "navigationUrls": [
     {
